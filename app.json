@@ -6,7 +6,9 @@
     "orientation": "landscape",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
-    "platforms": ["android"],
+    "platforms": [
+      "android"
+    ],
     "android": {
       "package": "dev.serika.streaming.androidtv",
       "versionCode": 1,
@@ -42,8 +44,9 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "serika-streaming-androidtv"
+        "projectId": "66884170-4b01-40e3-91c8-d8e67d788dac"
       }
-    }
+    },
+    "owner": "pikachubolk"
   }
 }
