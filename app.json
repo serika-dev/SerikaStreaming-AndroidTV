@@ -37,12 +37,12 @@
             "compileSdkVersion": 35,
             "targetSdkVersion": 35,
             "minSdkVersion": 21,
-            "kotlinVersion": "1.9.25",
-            "extraProguardRules": "-Dkotlin.compiler.suppressVersionCompatibilityCheck=true"
+            "kotlinVersion": "1.9.25"
           }
         }
       ],
-      "./plugins/withAndroidTV"
+      "./plugins/withAndroidTV",
+      "./plugins/withKotlinSuppress"
     ],
     "extra": {
       "eas": {
