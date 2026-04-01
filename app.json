@@ -36,13 +36,12 @@
           "android": {
             "compileSdkVersion": 35,
             "targetSdkVersion": 35,
-            "minSdkVersion": 21,
-            "kotlinVersion": "1.9.25"
+            "minSdkVersion": 21
           }
         }
       ],
       "./plugins/withAndroidTV",
-      "./plugins/withKotlinSuppress"
+      "./plugins/withKotlinFix"
     ],
     "extra": {
       "eas": {
