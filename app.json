@@ -27,7 +27,8 @@
             "android.intent.category.LEANBACK_LAUNCHER"
           ]
         }
-      ]
+      ],
+      "newArchEnabled": false
     },
     "plugins": [
       [
