@@ -9,6 +9,9 @@
     "platforms": [
       "android"
     ],
+    "splash": {
+      "backgroundColor": "#0a0a0a"
+    },
     "android": {
       "package": "dev.serika.streaming.androidtv",
       "versionCode": 1,
