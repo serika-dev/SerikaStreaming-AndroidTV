@@ -40,7 +40,6 @@
           }
         }
       ],
-      "./plugins/withAndroidTV"
     ],
     "extra": {
       "eas": {
