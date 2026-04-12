@@ -17,7 +17,6 @@
       }
     },
     "production": {
-      "credentialsSource": "local",
       "android": {
         "buildType": "apk"
       }
