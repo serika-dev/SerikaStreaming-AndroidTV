@@ -27,16 +27,15 @@
             "android.intent.category.LEANBACK_LAUNCHER"
           ]
         }
-      ],
-      "newArchEnabled": false
+      ]
     },
     "plugins": [
       [
         "expo-build-properties",
         {
           "android": {
-            "compileSdkVersion": 35,
-            "targetSdkVersion": 35,
+            "compileSdkVersion": 34,
+            "targetSdkVersion": 34,
             "minSdkVersion": 23
           }
         }
