@@ -25,9 +25,10 @@
       ],
       "intentFilters": [
         {
-          "action": "android.intent.action.MAIN",
+          "action": "MAIN",
           "category": [
-            "android.intent.category.LEANBACK_LAUNCHER"
+            "LEANBACK_LAUNCHER",
+            "LAUNCHER"
           ]
         }
       ]
